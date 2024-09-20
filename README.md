@@ -8,8 +8,9 @@ Durch die digitale Verwaltung spart NoteIT Papier und trägt zur Umweltfreundlic
 
 Das moderne Design mit Light- und Darkmode macht NoteIT zu einem praktischen Tool für alle, die ihre Notizen nachhaltig und strukturiert verwalten wollen.
 
-Beiträge:
+Beiträge
 Wir freuen uns über jede Art von Unterstützung und Beitrag zu NoteIT!
 
 Fehler melden: Öffnen Sie ein neues Issue auf GitHub.
 Features vorschlagen: Teilen Sie uns Ihre Ideen über GitHub Issues mit.
+Code beitragen: Forken Sie das Projekt, erstellen Sie einen neuen Branch und senden Sie einen Pull-Request.
