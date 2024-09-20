@@ -39,9 +39,8 @@ NoteIT lässt sich leicht anpassen. Hier einige Optionen:
 Benachrichtigungen: Aktivieren oder deaktivieren Sie Erinnerungen für Aufgaben oder wichtige Notizen.
 Sicherheit: Stellen Sie eine zusätzliche Authentifizierungsmethode (z. B. 2-Faktor-Authentifizierung) ein.
 
-Beiträge
+Beiträge:
 Wir freuen uns über jede Art von Unterstützung und Beitrag zu NoteIT!
 
 Fehler melden: Öffnen Sie ein neues Issue auf GitHub.
 Features vorschlagen: Teilen Sie uns Ihre Ideen über GitHub Issues mit.
-Code beitragen: Forken Sie das Projekt, erstellen Sie einen neuen Branch und senden Sie einen Pull-Request.
